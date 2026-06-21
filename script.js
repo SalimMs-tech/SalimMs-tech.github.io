@@ -1,4 +1,4 @@
-const apiKey = "c3b584cce80d43f08b1001504ed81afb";
+const apiKey = "";
 
 async function updateMarket(){
 
